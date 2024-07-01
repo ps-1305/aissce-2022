@@ -1,0 +1,31 @@
+
+            ALPHA HEALTHCARE PVT LTD.
+            -----------------------------------------------------
+            Add: 25/E-42,EDUCATION RD, ELLISBRIDGE, AHMEDABAD-3800xx
+            Phone: 8090222xxx
+            Email: alpha_healthcare@example.com
+            Web: www.alpha.health.co.in
+            -----------------------------------------------------
+                                *PATIENT INFO*                  
+            DATE AND TIME: 14/02/2022 18:15:52
+            NAME OF PATIENT: Random Name
+            AGE: 25
+            SEX: Male
+            -----------------------------------------------------
+                                *INVOICE*
+            WARD NAME: GENERAL
+            WARD CHARGES (PER DAY): 1000
+            TOTAL DAYS: 10
+            WARD CHARGES (TOTAL): 10000
+            ADMIT CHARGES: 1000
+            DOCTOR CHARGES: 500
+            SGST: 575.0 @ 5%
+            CGST: 575.0 @ 5%
+
+            *GRAND TOTAL* Rs. 12650.0
+
+            -----------------------------------------------------
+            ALPHA HEALTHCARE - YOUR HEALTH, OUR PRIORITY
+            COPYRIGHT (C) 20xx ALPHA HEALTHCARE PVT. LTD.
+
+            
