@@ -1,7 +1,8 @@
-# ▶️prashant-srivastav-1305/aissce-2022
+# AISSCE-2022 [Archived]
 Hospital management system (GUI version) <br>
 A computer science project for: 
 All India Senior Secondary Certificate Examination - 2022
+(This is a reupload. Originally uploaded to github.com/prashant-srivastav-1305 but got deleted due to account merging.)
 <br>
 
 ```
