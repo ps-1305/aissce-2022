@@ -72,9 +72,3 @@ Future:
 - Add an about page
 - Add administrator functionality to the 'admin' account
 ```
-
-```
-MIT License
-Copyright (c) 2022 Prashant Srivastav
-*COMPLETE LICENSE AT add-license-1 BRANCH*
-```
