@@ -59,9 +59,9 @@ code and also made it more readable - new tabular interface and scrollbar
 - icons changed for the whole application - error codes added - new bill design
 ```
 
-![Photos](https://github.com/prashant-srivastav-1305/aissce-2022/blob/main/screenshots/screenshots-1.png)
-![Photos](https://github.com/prashant-srivastav-1305/aissce-2022/blob/main/screenshots/screenshots-2.png)
-![Photos](https://github.com/prashant-srivastav-1305/aissce-2022/blob/main/screenshots/screenshots-3.png)
+![Photos](https://github.com/ps-1305/aissce-2022/blob/main/screenshots/screenshots-1.png)
+![Photos](https://github.com/ps-1305/aissce-2022/blob/main/screenshots/screenshots-2.png)
+![Photos](https://github.com/ps-1305/aissce-2022/blob/main/screenshots/screenshots-3.png)
 
 ```
 Future:
